@@ -4,6 +4,8 @@ Author: Thinh Minh Nguyen - tnguyen831@gatech.edu
 
 Version: 1.0
 
+![gba_game_demo](https://github.com/user-attachments/assets/64a6287f-4f76-4c03-9533-93651cca16db)
+
 ## Highlights:
 
 ### How to play:
@@ -23,7 +25,7 @@ This is a game in Game Boy Advance (GBA) style that I made as a submission to Ho
 ## Usage Instructions:
 1. You need a Docker image to run the game, thus you should have Docker installed on your computer ([link to install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
 
-2. Pulling down the ```gtcs2110/cs2110docker``` by running the following terminal command:
+2. Pulling down the ```gtcs2110/cs2110docker``` by running the following terminal command (have Docker Desktop running in background):
 
 ```
 ./cs2110docker-gba.sh
