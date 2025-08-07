@@ -25,7 +25,7 @@ This is a game in Game Boy Advance (GBA) style that I made as a submission to Ho
 ## Usage Instructions:
 1. You need a Docker image to run the game, thus you should have Docker installed on your computer ([link to install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
 
-2. Pulling down the ```gtcs2110/cs2110docker``` by running the following terminal command (have Docker Desktop running in background):
+2. Pulling down the ```gtcs2110/cs2110docker``` by running the following terminal command (have Docker running in background):
 
 ```
 ./cs2110docker-gba.sh
