@@ -10,10 +10,10 @@ Version: 1.0
 Simple, just move the blue square from the left green area to the right green area while avoiding hit by the red squares
 
 ### Controls: 
-- UP arrow: go up
-- DOWN arrow: go down
-- RIGHT arrow: go right
-- LEFT arrow: go left
+- UP $\uparrow$: go up
+- DOWN $\downarrow$: go down
+- RIGHT $\rightarrow$: go right
+- LEFT $\leftarrow$: go left
 - ENTER: adjust game's difficulty
 - BACKSPACE: back to main screen and reset difficulty
 
@@ -21,7 +21,7 @@ Simple, just move the blue square from the left green area to the right green ar
 This is a game in Game Boy Advance (GBA) style that I made as a submission to Homework 6 - CS 2110 at Georgia Tech. This is my most-favorite project of the class where I got 105/100 points, so I decided to publish it here on GitHub!
 
 ## Usage Instructions:
-1. You need a Docker image to run the game, and thus you should have Docker installed on your computer ([link to install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
+1. You need a Docker image to run the game, thus you should have Docker installed on your computer ([link to install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
 
 2. Pulling down the ```gtcs2110/cs2110docker``` by running the following terminal command:
 
