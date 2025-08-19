@@ -22,6 +22,8 @@ Simple, just move the blue square from the left green area to the right green ar
 ## Overview:
 This is a game in Game Boy Advance (GBA) style that I made as a submission to Homework 6 - CS 2110 at Georgia Tech. This is my most-favorite project of the class where I got 105/100 points, so I decided to publish it here on GitHub!
 
+<img width="1529" height="78" alt="Screenshot from 2025-08-19 19-57-05" src="https://github.com/user-attachments/assets/886e4b4e-734d-4357-b996-08c496e96993" />
+
 ## Usage Instructions:
 1. You need a Docker image to run the game, thus you should have Docker installed on your computer ([link to install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
 
